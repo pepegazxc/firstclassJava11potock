@@ -5,7 +5,7 @@ public class Main {
         int weeks;
 
         weeks = days / 7;
-        System.out.println("прошло " +weeks+ " недель");
+        System.out.println("прошло  " +weeks+ " недель");
 
     }
 }
